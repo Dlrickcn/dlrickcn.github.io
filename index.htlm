@@ -1,11 +1,7 @@
 <!DOCTYPE html>
-<htlm>
- <head>
-   <meta chatset="utf-8">
-   <title>Ana Sayfa </title>
-   <link rel="stylesheet" href="css\app.css">
- </head>
- <body>
-   <hl>Welcome</hl>
- </body>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
 </html>
