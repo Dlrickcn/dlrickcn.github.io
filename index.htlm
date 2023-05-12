@@ -3,6 +3,7 @@
  <head>
    <meta chatset="utf-8">
    <title>Ana Sayfa </title>
+   <link rel="stylesheet" href="css\app.css">
  </head>
  <body>
    <hl>Welcome</hl>
